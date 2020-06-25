@@ -219,3 +219,323 @@ Language: English, Russian, Korean
 Plot: A CIA agent goes on the run after a defector accuses her of being a Russian spy.
 Actors: Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski
 
+--------------------------------------------------
+[06/25/2020] concert-this bonjovi
+--------------------------------------------------
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date of Event: 06/25/2020
+
+Venue: BOK Center
+Location: Tulsa, OK, United States
+Date of Event: 06/26/2020
+
+Venue: Scotiabank Arena
+Location: Toronto, ON, Canada
+Date of Event: 07/10/2020
+
+Venue: Bell Centre
+Location: Montreal, QC, Canada
+Date of Event: 07/11/2020
+
+Venue: Prudential Center
+Location: Newark, NJ, United States
+Date of Event: 07/14/2020
+
+Venue: TD Garden
+Location: Boston, MA, United States
+Date of Event: 07/16/2020
+
+Venue: Little Caesers Arena
+Location: Detroit, MI, United States
+Date of Event: 07/19/2020
+
+Venue: United Center
+Location: Chicago, IL, United States
+Date of Event: 07/21/2020
+
+Venue: Enterprise Center
+Location: St Louis, MO, United States
+Date of Event: 07/23/2020
+
+Venue: Capital One Arena
+Location: Washington, D.c., DC, United States
+Date of Event: 07/25/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 07/27/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 07/28/2020
+
+
+--------------------------------------------------
+[06/25/2020] spotify-this-song fly me to the moon
+--------------------------------------------------
+Artists: Frank Sinatra, Count Basie
+Song Name: Fly Me To The Moon (In Other Words)
+Preview Link: null
+Album: Sinatra/Basie: The Complete Reprise Studio Recordings
+
+Artists: Frank Sinatra, Count Basie
+Song Name: Fly Me To The Moon - Remastered
+Preview Link: null
+Album: Ultimate Sinatra
+
+Artist: The Macarons Project
+Song Name: Fly Me to the Moon
+Preview Link: https://p.scdn.co/mp3-preview/4e397531310d158669226af2e1899e11608ca4f9?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Fly Me to the Moon
+
+Artist: Annapantsu
+Song Name: Fly Me to the Moon
+Preview Link: https://p.scdn.co/mp3-preview/ea538ce9c0489fe54cf00d260b4bec70d97e49e0?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Fly Me to the Moon
+
+Artists: Joytastic Sarah, YungRhythm
+Song Name: Fly Me to the Moon
+Preview Link: https://p.scdn.co/mp3-preview/dc7b17e2bc47c53c83f90af2397d61c9f40ada11?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Fly Me to the Moon
+
+
+--------------------------------------------------
+[06/25/2020] movie-this jaws
+--------------------------------------------------
+Title: Jaws
+Year: 1975
+IMDB Rating: 8.0/10
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English
+Plot: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "I Want It That Way"
+--------------------------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Millennium
+
+Artist: Mick Jensen
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: I Want It That Way
+
+Artist: Anthem Lights
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Covers Part IV
+
+Artist: Tyler and Mark
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Beautiful Dreams
+
+Artist: Dynamite Boy
+Song Name: I Want It That Way
+Preview Link: null
+Album: Punk Goes Pop
+
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "Baby Blue"
+movie-this
+--------------------------------------------------
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "Baby Blue"
+
+--------------------------------------------------
+Artists: Action Bronson, Chance the Rapper
+Song Name: Baby Blue (feat. Chance the Rapper)
+Preview Link: https://p.scdn.co/mp3-preview/521fa021bd5d37bd0f1e2be7165ad5edda15bf2b?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Mr. Wonderful
+
+Artist: Rence
+Song Name: Baby Blue
+Preview Link: https://p.scdn.co/mp3-preview/52ff64f9703000d1da88d8209b6b7592d543f460?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Baby Blue
+
+Artist: King Krule
+Song Name: Baby Blue
+Preview Link: https://p.scdn.co/mp3-preview/3c189809fe2aad2ac9933c752c7fdccf52a8978b?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: 6 Feet Beneath The Moon
+
+Artist: Badfinger
+Song Name: Baby Blue - Remastered 2010
+Preview Link: null
+Album: Straight Up (Remastered 2010 / Deluxe Edition)
+
+Artist: George Strait
+Song Name: Baby Blue
+Preview Link: null
+Album: If You Ain't Lovin', You Ain't Livin'
+
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "Hawaiian Wedding Song"
+
+--------------------------------------------------
+Artist: Andy Williams
+Song Name: Hawaiian Wedding Song
+Preview Link: https://p.scdn.co/mp3-preview/4660fd1fe4cd432989938077b3180fa7b90da2be?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Blue Hawaii - Greatest Songs Of The Islands
+
+Artist: Elvis Presley
+Song Name: Hawaiian Wedding Song
+Preview Link: https://p.scdn.co/mp3-preview/484676ab2279f877a216c5e64cfbea49e50225ea?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Blue Hawaii
+
+Artist: 101 Strings Orchestra
+Song Name: Hawaiian Wedding Song
+Preview Link: https://p.scdn.co/mp3-preview/d751a974ba2da010bee1dceeca0f9d261d30bf21?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Exotica Lounge: 25 Tiki, Jungle, and Oriental Classics, Vol. 1
+
+Artist: The Surfmen
+Song Name: Hawaiian Wedding Song
+Preview Link: https://p.scdn.co/mp3-preview/c9c74f6b4ec8e2f3a65cbd7942bd77106c6b0028?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Chill Out Hawaiian Music
+
+Artist: Santo & Johnny
+Song Name: Hawaiian Wedding Song
+Preview Link: https://p.scdn.co/mp3-preview/83dbc27643ab47295426d788e8902ee4b9f3dc6f?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Forever Mine
+
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "We've Only Just Begun"
+
+--------------------------------------------------
+Artist: Carpenters
+Song Name: We've Only Just Begun
+Preview Link: null
+Album: Close To You
+
+Artist: Glenn Jones
+Song Name: We've Only Just Begun (The Romance Is Not Over)
+Preview Link: https://p.scdn.co/mp3-preview/f0aa0b8abecc2d60c1e530db3e5e8faad506e5dc?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Glenn Jones
+
+Artist: Richard Clayderman
+Song Name: We've Only Just Begun
+Preview Link: https://p.scdn.co/mp3-preview/237e91b58ee6bd0ee25c59ae1f068ea370a8aab9?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: At Home With Richard Clayderman
+
+Artist: James Reese
+Song Name: We've Only Just Begun
+Preview Link: https://p.scdn.co/mp3-preview/e14f12b082fa2fc312dcd8d1b0b4707141e5470d?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: A Fairy Tale
+
+Artist: Run Kid Run
+Song Name: We've Only Just Begun
+Preview Link: null
+Album: This Is Who We Are
+
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "Daisies"
+
+--------------------------------------------------
+Artist: Katy Perry
+Song Name: Daisies
+Preview Link: null
+Album: Daisies
+
+Artists: Katy Perry, Oliver Heldens
+Song Name: Daisies
+Preview Link: null
+Album: Daisies (Oliver Heldens Remix)
+
+Artists: Katy Perry, MK
+Song Name: Daisies
+Preview Link: null
+Album: Daisies (MK Remix)
+
+Artist: White Reaper
+Song Name: Daisies
+Preview Link: https://p.scdn.co/mp3-preview/bf032e42ea97de24c80d8de9a31351a32b57f123?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: The World's Best American Band
+
+Artist: Covey
+Song Name: Daisies
+Preview Link: https://p.scdn.co/mp3-preview/2e7f3d3ff6d4fa70d08b5bb522998ae09b98518f?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Bows
+
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "Somebody to Love"
+
+--------------------------------------------------
+Artist: Queen
+Song Name: Somebody To Love - 2011 Mix
+Preview Link: null
+Album: A Day At The Races (Deluxe Remastered Version)
+
+Artist: OneRepublic
+Song Name: Somebody To Love
+Preview Link: null
+Album: Somebody To Love
+
+Artist: Jefferson Airplane
+Song Name: Somebody to Love
+Preview Link: https://p.scdn.co/mp3-preview/2bbbf1d141efc87df39c340f5a67bf5a25668ed1?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Surrealistic Pillow
+
+Artist: Justin Bieber
+Song Name: Somebody To Love
+Preview Link: null
+Album: My World 2.0
+
+Artist: Abhi The Nomad
+Song Name: Somebody to Love
+Preview Link: https://p.scdn.co/mp3-preview/4d1ac023873fc3e0743ea95e3447e88ef2376a76?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Marbled
+
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "Jaws"
+
+--------------------------------------------------
+Title: Jaws
+Year: 1975
+IMDB Rating: 8.0/10
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English
+Plot: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+
+--------------------------------------------------
+[06/25/2020] do-what-it-says  "Somebody to Love"
+
+--------------------------------------------------
+Artist: Queen
+Song Name: Somebody To Love - 2011 Mix
+Preview Link: null
+Album: A Day At The Races (Deluxe Remastered Version)
+
+Artist: OneRepublic
+Song Name: Somebody To Love
+Preview Link: null
+Album: Somebody To Love
+
+Artist: Jefferson Airplane
+Song Name: Somebody to Love
+Preview Link: https://p.scdn.co/mp3-preview/2bbbf1d141efc87df39c340f5a67bf5a25668ed1?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Surrealistic Pillow
+
+Artist: Justin Bieber
+Song Name: Somebody To Love
+Preview Link: null
+Album: My World 2.0
+
+Artist: Abhi The Nomad
+Song Name: Somebody to Love
+Preview Link: https://p.scdn.co/mp3-preview/4d1ac023873fc3e0743ea95e3447e88ef2376a76?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Marbled
+
+

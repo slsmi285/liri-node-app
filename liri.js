@@ -12,7 +12,7 @@ var nodeArgString;
 
 var hRule = "--------------------------------------------------\n"; //formatting
 
-var getMyStuff = {
+var getMyInfo = {
     // get arguments from command line node liri.js <arguments>
     processArgs: function (arg) {
         var tempArray = [];
@@ -168,7 +168,7 @@ var getMyStuff = {
             var dataArray = data.split(",");
 
             // call the checkCommand method
-            getMyStuff.checkCommand(dataArray[0], dataArray[1]);
+            getMyInfo.checkCommand(dataArray[0], dataArray[1]);
 
         });
     }
@@ -194,4 +194,4 @@ function addToFile(nodeCmd, query, info) {
 };
 
 
-getMyStuff.processArgs(process.argv);
+getMyInfo.processArgs(process.argv);
