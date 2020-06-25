@@ -1,0 +1,221 @@
+--------------------------------------------------
+[2020/06/23 03:34:51] concert-this chicago
+--------------------------------------------------
+
+concert-this, chicago
+ --------------------------------------------------
+[2020/06/23 03:35:59] concert-this chicago
+--------------------------------------------------
+
+--------------------------------------------------
+[2020/06/23 03:36:35] spotify-this-song piano man
+--------------------------------------------------
+Artist: Billy Joel
+Song Name: Piano Man
+Preview Link: https://p.scdn.co/mp3-preview/7f1dc0e2f56c946849ac2e61dfa1ce827fb8dc70?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Piano Man (Legacy Edition)
+
+Artist: Mamamoo
+Song Name: Piano Man
+Preview Link: https://p.scdn.co/mp3-preview/9086ab15db87e888dfde5dc1e540a377e927000a?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Piano Man
+
+Artist: Ghostland Observatory
+Song Name: Piano Man
+Preview Link: https://p.scdn.co/mp3-preview/b91190ba7b7ba28e9544372ff73cecf224b97a6e?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Paparazzi Lightning
+
+Artist: Piano Project
+Song Name: Piano Man
+Preview Link: https://p.scdn.co/mp3-preview/3878f5e6c815be7580a6634f1f7aca35d4ac9ba4?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Piano Renditions of Billy Joel
+
+Artist: Glee Cast
+Song Name: Piano Man (Glee Cast Version)
+Preview Link: https://p.scdn.co/mp3-preview/4029f275116789d14c535299f57dbc0d0cf54616?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Movin' Out
+
+
+--------------------------------------------------
+[2020/06/24 04:06:59] spotify-this-song grease
+--------------------------------------------------
+Artist: Frankie Valli
+Song Name: Grease - 2007 Remaster
+Preview Link: https://p.scdn.co/mp3-preview/c78d491cb27b7e1c0a034274cde29191c17d4a9e?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Frankie Valli...Is The Word
+
+Artists: John Travolta, Jeff Conaway
+Song Name: Greased Lightnin'
+Preview Link: null
+Album: Broadway
+
+Artist: Frankie Valli
+Song Name: Grease - From “Grease”
+Preview Link: null
+Album: Grease (The Original Motion Picture Soundtrack)
+
+Artist: Frankie Valli
+Song Name: Grease
+Preview Link: https://p.scdn.co/mp3-preview/be592e4cd955de49e96f87761065c14d1b76df66?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: The Very Best of Frankie Valli & The 4 Seasons
+
+Artists: John Travolta, Olivia Newton-John
+Song Name: You're The One That I Want - From “Grease”
+Preview Link: null
+Album: Grease (The Original Motion Picture Soundtrack)
+
+
+--------------------------------------------------
+[2020/06/24 04:16:10] spotify-this-song poker face
+--------------------------------------------------
+Artist: Lady Gaga
+Song Name: Poker Face
+Preview Link: null
+Album: The Fame
+
+Artist: LUCKI
+Song Name: Poker Face
+Preview Link: https://p.scdn.co/mp3-preview/c8816d4d7ca28e422796f23f8e9e57873c410b22?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Watch My Back
+
+Artists: Glee Cast, Idina Menzel
+Song Name: Poker Face (Glee Cast Version) (feat. Idina Menzel)
+Preview Link: https://p.scdn.co/mp3-preview/a743a4d745a0759f07568b360f702f0451fd6e26?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Glee: The Music, Volume 3 Showstoppers
+
+Artist: Vitamin String Quartet
+Song Name: Poker Face
+Preview Link: https://p.scdn.co/mp3-preview/68a1a47a5709245a4ecc802557e679fd8f749b57?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: VSQ Performs Lady Gaga
+
+Artist: Rockabye Baby!
+Song Name: Poker Face
+Preview Link: https://p.scdn.co/mp3-preview/1087af22c740fb7dfe6f3626550f456b0755b18b?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Lullaby Renditions of Lady Gaga
+
+
+----------------------------------------------
+[06/25/2020] spotify-this-song C:\Program Files\nodejs\node.exe C:\Users\toosa\OneDrive\Desktop\Projects_HMWK_Solutions\10. Node JS Assignment\liri-node-app\temp2.js spotify-this-song sandy
+----------------------------------------------
+
+----------------------------------------------
+[06/25/2020] spotify-this-song C:\Program Files\nodejs\node.exe C:\Users\toosa\OneDrive\Desktop\Projects_HMWK_Solutions\10. Node JS Assignment\liri-node-app\temp2.js spotify-this-song
+----------------------------------------------
+
+----------------------------------------------
+[06/25/2020] spotify-this-song C:\Program Files\nodejs\node.exe C:\Users\toosa\OneDrive\Desktop\Projects_HMWK_Solutions\10. Node JS Assignment\liri-node-app\temp2.js spotify-this-song baby blue
+----------------------------------------------
+
+----------------------------------------------
+[06/25/2020] spotify-this-song C:\Program Files\nodejs\node.exe C:\Users\toosa\OneDrive\Desktop\Projects_HMWK_Solutions\10. Node JS Assignment\liri-node-app\temp2.js spotify-this-song baby blue
+----------------------------------------------
+
+----------------------------------------------
+[06/25/2020] spotify-this-song C:\Program Files\nodejs\node.exe C:\Users\toosa\OneDrive\Desktop\Projects_HMWK_Solutions\10. Node JS Assignment\liri-node-app\temp2.js spotify-this-song baby blue
+----------------------------------------------
+
+--------------------------------------------------
+[06/25/2020] spotify-this-song oceanfront property
+--------------------------------------------------
+Artist: George Strait
+Song Name: Ocean Front Property
+Preview Link: null
+Album: Ocean Front Property
+
+Artist: George Strait
+Song Name: Ocean Front Property - Edit
+Preview Link: null
+Album: 50 Number Ones
+
+Artists: George Strait, Kenny Chesney
+Song Name: Ocean Front Property - Live
+Preview Link: null
+Album: The Cowboy Rides Away: Live From AT&T Stadium
+
+Artist: J Thoubbs
+Song Name: Oceanfront Property
+Preview Link: https://p.scdn.co/mp3-preview/745a40d49be0d97806e8e43a91c143c33b173061?cid=5ea5620290d8433c8e35d23389b4ebb2
+Album: Narcissism Party EP
+
+Artist: George Strait
+Song Name: Ocean Front Property
+Preview Link: null
+Album: George Strait's Greatest Hits, Volume Two
+
+
+--------------------------------------------------
+[06/25/2020] movie-this out of africa
+--------------------------------------------------
+Title: Out of Africa
+Year: 1985
+IMDB Rating: 7.2/10
+Rotten Tomatoes Rating: 58%
+Country: USA, UK
+Language: English, Swahili
+Plot: In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.
+Actors: Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen
+
+--------------------------------------------------
+[06/25/2020] concert-this bonjovi
+--------------------------------------------------
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date of Event: 06/25/2020
+
+Venue: BOK Center
+Location: Tulsa, OK, United States
+Date of Event: 06/26/2020
+
+Venue: Scotiabank Arena
+Location: Toronto, ON, Canada
+Date of Event: 07/10/2020
+
+Venue: Bell Centre
+Location: Montreal, QC, Canada
+Date of Event: 07/11/2020
+
+Venue: Prudential Center
+Location: Newark, NJ, United States
+Date of Event: 07/14/2020
+
+Venue: TD Garden
+Location: Boston, MA, United States
+Date of Event: 07/16/2020
+
+Venue: Little Caesers Arena
+Location: Detroit, MI, United States
+Date of Event: 07/19/2020
+
+Venue: United Center
+Location: Chicago, IL, United States
+Date of Event: 07/21/2020
+
+Venue: Enterprise Center
+Location: St Louis, MO, United States
+Date of Event: 07/23/2020
+
+Venue: Capital One Arena
+Location: Washington, D.c., DC, United States
+Date of Event: 07/25/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 07/27/2020
+
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date of Event: 07/28/2020
+
+
+--------------------------------------------------
+[06/25/2020] movie-this salt
+--------------------------------------------------
+Title: Salt
+Year: 2010
+IMDB Rating: 6.4/10
+Rotten Tomatoes Rating: 62%
+Country: USA
+Language: English, Russian, Korean
+Plot: A CIA agent goes on the run after a defector accuses her of being a Russian spy.
+Actors: Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski
+
