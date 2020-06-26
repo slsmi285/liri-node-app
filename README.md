@@ -62,19 +62,28 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
 
 LIRI is run in the command line.
 
-    node liri.js concert-this <artist/band name here> runs the concertThis method along with the name of the artist or band as an argument. It gets info from the Bands In Town API using Axios and displays multiple show events.
+    node liri.js concert-this <artist/band name here> runs the concertThis method along with the name of the artist or band as an argument. It gets     info from the Bands In Town API using Axios and displays multiple show events.
 
         If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value
         Save command and argument to addToFile method.
         Screenshot:
-        ![Concert-This](/assets/Concert-this.PNG)
+        https://github.com/slsmi285/liri-node-app/issues/1#issue-646559795
+        
+    node liri.js spotify-this-song <song name here> runs the spotifyThis method.
+
+        If a song is entered, it will send it as a query to the Spotify API and returns the artist's name, song name, preview link, and album.
+        If no argument is given, "The Chair" will be used as a default argument.
+        Save command and argument to addToFile method.
+        Screenshot:
+        https://github.com/slsmi285/liri-node-app/issues/3#issue-646561550
+        
     node liri.js movie-this <movie name here> runs the movieThis method using Axios and OMDB API.
 
         If a movie is entered, it returns the movie title, year, IMDB Rating, RT rating, country, language, plot, and actors.
         If no movie is entered, a default value of "Mr Nobody" is used.
         Save command and argument to addToFile method.
         Screenshot:
-        ![Movie-This](/assets/Movie-this.PNG)
+        https://github.com/slsmi285/liri-node-app/issues/2#issue-646560424
 
     node liri.js do-what-it-says runs the doWhatItSays method using the FS module to get a string from the random.txt file.
 
@@ -83,16 +92,17 @@ LIRI is run in the command line.
         The command and query argument are passed to the checkCommand method which then calls the appropriate method.
         Save command and argument to addToFile method.
         Screenshot:
-        ![Do What it Says](/assets/Do-what-it-says1.PNG)
+        https://github.com/slsmi285/liri-node-app/issues/4#issue-646561871
+        https://github.com/slsmi285/liri-node-app/issues/5#issue-646562249
+        https://github.com/slsmi285/liri-node-app/issues/6#issue-646562454
 
     The addToFile method uses the FS module to append a string to the log.txt file.
 
-        Moment.js is used to getthe current time and format it as [/DD/YYYY].
+        Moment.js is used to getthe current time and format it as [MM/DD/YYYY].
         Here's the heading of each appended string:
         [MM/DD/YYY] <command-name> <argument>
-        Screenshot
-        
-        ![Concert-This with moment](/assets/Concert-this.PNG)
+        Screenshot:
+        https://github.com/slsmi285/liri-node-app/issues/7#issue-646562716
 
     Log.txt file:
         log.txt
