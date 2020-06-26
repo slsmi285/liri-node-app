@@ -67,4 +67,28 @@ LIRI is run in the command line.
         If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value
         Save command and argument to addToFile method.
         Screenshot:
-        
+
+    node liri.js movie-this <movie name here> runs the movieThis method using Axios and OMDB API.
+
+        If a movie is entered, it returns the movie title, year, IMDB Rating, RT rating, country, language, plot, and actors.
+        If no movie is entered, a default value of "Mr Nobody" is used.
+        Save command and argument to addToFile method.
+        Screenshot:
+
+    node liri.js do-what-it-says runs the doWhatItSays method using the FS module to get a string from the random.txt file.
+
+        The "," in the string will be used as a delimiter using `.split(",") and saves the string as two items in an array.
+        The first item is used as the command and the second item is the query argument.
+        The command and query argument are passed to the checkCommand method which then calls the appropriate method.
+        Save command and argument to addToFile method.
+        Screenshot:
+
+    The addToFile method uses the FS module to append a string to the log.txt file.
+
+        Moment.js is used to getthe current time and format it as [/DD/YYYY].
+        Here's the heading of each appended string:
+        [MM/DD/YYY] <command-name> <argument>
+        Screenshot
+
+    Log.txt file:
+        log.txt
