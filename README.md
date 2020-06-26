@@ -51,7 +51,7 @@ The "getMyInfo" object
 
 The getMyInfo object contains multiple methods for the LIRI app to determine which command was entered and then calls that specific method to obtain and display specific information.
     processArgs method
-        gets an array from [process.argv](https://nodejs.org/api/process.html#process_process_argv), which is a "property that returns an array containing the command line arguments passed when the Node.js process was launched."
+        gets an array from [process.argv](https://nodejs.org/api/process.html#process_process_argv), which is a "property that returns an array containing the command line                arguments passed when the Node.js process was launched."
     checkCommand method
         Uses the switch/case statement checks if the command argument matches an existing method and calls that method.
     concertThis method.
@@ -67,13 +67,14 @@ LIRI is run in the command line.
         If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value
         Save command and argument to addToFile method.
         Screenshot:
-
+        ![Concert-This](/assets/Concert-this.PNG)
     node liri.js movie-this <movie name here> runs the movieThis method using Axios and OMDB API.
 
         If a movie is entered, it returns the movie title, year, IMDB Rating, RT rating, country, language, plot, and actors.
         If no movie is entered, a default value of "Mr Nobody" is used.
         Save command and argument to addToFile method.
         Screenshot:
+        ![Movie-This](/assets/Movie-this.PNG)
 
     node liri.js do-what-it-says runs the doWhatItSays method using the FS module to get a string from the random.txt file.
 
@@ -82,6 +83,7 @@ LIRI is run in the command line.
         The command and query argument are passed to the checkCommand method which then calls the appropriate method.
         Save command and argument to addToFile method.
         Screenshot:
+        ![Do What it Says](/assets/Do-what-it-says1.PNG)
 
     The addToFile method uses the FS module to append a string to the log.txt file.
 
@@ -89,6 +91,8 @@ LIRI is run in the command line.
         Here's the heading of each appended string:
         [MM/DD/YYY] <command-name> <argument>
         Screenshot
+        
+        ![Concert-This with moment](/assets/Concert-this.PNG)
 
     Log.txt file:
         log.txt
