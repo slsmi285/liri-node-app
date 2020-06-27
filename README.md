@@ -87,19 +87,17 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
        - If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value.
        - Save command and argument to addToFile method.
            Screenshot
+   ![Concert-This]
    <img src="https://raw.githubusercontent.com/slsmi285/liri-node-app/master/assets/Concert-this.PNG?raw=true" />
-
-
-
-
-                                  
+                                 
    *node liri.js spotify-this-song <song name here> runs the spotifyThis method.*
 
        - If a song is entered, it will send it as a query to the Spotify API and returns the artist's name, song name, preview link, and album.
        - If no argument is given, "The Chair" will be used as a default argument.
        - Save command and argument to addToFile method.
            Screenshot:
-           ![Spotify-This-Song Screenshot](https://github.com/slsmi285/liri-node-app/issues/3#issue-646561550)
+   ![Spotify-This-Song Screenshot]
+   <img src="https://raw.githubusercontent.com/61988746/85908787-a19bf300-b7e4-11ea-90f7-d200d7f4d322.PNG?raw=true" />
                    
    *node liri.js movie-this <movie name here> runs the movieThis method using Axios and OMDB API.*
 
@@ -107,8 +105,9 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
        - If no movie is entered, a default value of "Mr Nobody" is used.
        - Save command and argument to addToFile method.
            Screenshot:
-           ![Movie-This Screenshot](https://github.com/slsmi285/liri-node-app/issues/2#issue-646560424)
-           
+   ![Movie-This Screenshot]
+   <img src="https://raw.githubusercontent.com/61988746/85908653-ea06e100-b7e3-11ea-80fd-1443da910095.PNG?raw=true" />
+                      
    *node liri.js do-what-it-says runs the doWhatItSays method using the FS module to get a string from the random.txt file.*
 
        - The "," in the string will be used as a delimiter using `.split(",") and saves the string as two items in an array.
@@ -116,10 +115,13 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
        - The command and query argument are passed to the checkCommand method which then calls the appropriate method.
        - Save command and argument to addToFile method.
            Screenshot:
-           ![Do-What-It-Says](https://github.com/slsmi285/liri-node-app/issues/4#issue-646561871)
-           ![Do-What-It-Says_movie-this](https://github.com/slsmi285/liri-node-app/issues/5#issue-646562249)
-           ![Do-What-It-Says_concert-this](https://github.com/slsmi285/liri-node-app/issues/6#issue-646562454)
-
+   ![Do-What-It-Says]
+   <img src="https://raw.githubusercontent.com/61988746/85908838-d445eb80-b7e4-11ea-9c63-4cd20d1af8b0.PNG?raw=true" />
+   ![Do-What-It-Says concert-this]
+   <img src="https://raw.githubusercontent.com/61988746/85908912-3acb0980-b7e5-11ea-8412-88f96eaac55b.PNG?raw=true" />
+   ![Do-What-It-Says movie-this]
+   <img src="https://raw.githubusercontent.com/61988746/85908892-140cd300-b7e5-11ea-81ba-d7b8a88431da.PNG?raw=true" />
+          
    *The addToFile method uses the FS module to append a string to the log.txt file.*
 
        - Moment.js is used to get the current time and format it as [MM/DD/YYYY].
@@ -127,6 +129,9 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
             - [MM/DD/YYY] <command-name> <argument>
        - log.txt
            Screenshot:
-           ![Log.txt](https://user-images.githubusercontent.com/61988746/85908947-6b12a800-b7e5-11ea-84c8-9bebe3d3d399.PNG)
+   ![Log.txt]
+   <img src="https://raw.githubusercontent.com/61988746/85909360-7ebf0e00-b7e7-11ea-8e50-447a3d17183b.PNG?raw=true" />
+   ![Moment]
+   <img src="https://raw.githubusercontent.com/slsmi285/liri-node-app/master/assets/Concert-this.PNG?raw=true" />
         
         
