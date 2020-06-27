@@ -88,7 +88,7 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
        - Save command and argument to addToFile method.
            Screenshot:
            ![Concert-This Screenshot](https://github.com/slsmi285/liri-node-app/issues/1#issue-646559795)
-        
+           https://github.com/slsmi285/liri-node-app/issues/1#issue-646559795
    *node liri.js spotify-this-song <song name here> runs the spotifyThis method.*
 
        - If a song is entered, it will send it as a query to the Spotify API and returns the artist's name, song name, preview link, and album.
