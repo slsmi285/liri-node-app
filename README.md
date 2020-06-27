@@ -87,8 +87,8 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
        - If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value.
        - Save command and argument to addToFile method.
            Screenshot:
-           ![https://github.com/slsmi285/liri-node-app/issues/1#issue-646559795](https://github.com/slsmi285/liri-node-app/issues/1#issue-646559795)
-                        
+           ![Concert-This Screenshot](https://github.com/slsmi285/liri-node-app/issues/1#issue-646559795)
+                                  
    *node liri.js spotify-this-song <song name here> runs the spotifyThis method.*
 
        - If a song is entered, it will send it as a query to the Spotify API and returns the artist's name, song name, preview link, and album.
@@ -96,7 +96,7 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
        - Save command and argument to addToFile method.
            Screenshot:
            ![Spotify-This-Song Screenshot](https://github.com/slsmi285/liri-node-app/issues/3#issue-646561550)
-        
+                   
    *node liri.js movie-this <movie name here> runs the movieThis method using Axios and OMDB API.*
 
        - If a movie is entered, it returns the movie title, year, IMDB Rating, RT rating, country, language, plot, and actors.
@@ -118,15 +118,11 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
 
    *The addToFile method uses the FS module to append a string to the log.txt file.*
 
-       - Moment.js is used to getthe current time and format it as [MM/DD/YYYY].
+       - Moment.js is used to get the current time and format it as [MM/DD/YYYY].
        - Here's the heading of each appended string:
-       - [MM/DD/YYY] <command-name> <argument>
-           Screenshot:
-           ![Moment Screenshot_using concert-this](https://github.com/slsmi285/liri-node-app/issues/7#issue-646562716)
-         
-   *Log.txt file:*
+            - [MM/DD/YYY] <command-name> <argument>
        - log.txt
            Screenshot:
-           ![Log.txt Screenshot](https://github.com/slsmi285/liri-node-app/issues/8#issue-646565749)
+           ![Log.txt](https://github.com/slsmi285/liri-node-app/issues/8#issue-646565749)
         
         
