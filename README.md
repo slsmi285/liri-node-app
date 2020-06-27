@@ -86,8 +86,10 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
        - It getsinfo from the Bands In Town API using Axios and displays multiple show events.
        - If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value.
        - Save command and argument to addToFile method.
-           Screenshot:
-           ![Concert-This Screenshot](https://github.com/slsmi285/liri-node-app/blob/master/assets/Concert-this.PNG?raw=true)
+           Screenshot
+           ![Preview](https://raw.githubusercontent.com/slsmi285/liri-node-app/master/assets/Concert-this.PNG)
+
+
 
                                   
    *node liri.js spotify-this-song <song name here> runs the spotifyThis method.*
