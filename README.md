@@ -87,7 +87,7 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
        - If no argument (Artist or Band) is entered, it will search using "George Strait" as a default value.
        - Save command and argument to addToFile method.
            Screenshot:
-           ![Concert-This Screenshot](https://github.com/slsmi285/liri-node-app/issues/1#issue-646559795)
+           ![Concert-This Screenshot]("./assets/Concert-this.PNG")
                                   
    *node liri.js spotify-this-song <song name here> runs the spotifyThis method.*
 
