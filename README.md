@@ -123,6 +123,6 @@ The getMyInfo object contains multiple methods for the LIRI app to determine whi
             - [MM/DD/YYY] <command-name> <argument>
        - log.txt
            Screenshot:
-           ![Log.txt](https://github.com/slsmi285/liri-node-app/issues/8#issue-646565749)
+           ![Log.txt](https://user-images.githubusercontent.com/61988746/85908947-6b12a800-b7e5-11ea-84c8-9bebe3d3d399.PNG)
         
         
